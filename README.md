@@ -1,11 +1,14 @@
 # Physical activity patterns as predictors of worsening depression
 
-## Direcroty structure
+## Directory structure
 
 ```
 ├───data                    # Local copy of the original data set
 │   └───raw        
-├───imgs                    # Images generated for the report
+├───report                  # Materials used for the final project report
+│   ├───imgs                # Images generated for the report
+│   ├───main.tex            # Main report file containing LaTeX code
+│   └───ref.bib             # Bibliography
 ├───notebooks 
 │   └───exploration.ipynb   # Notebook containing all of the code for the project
 │   README.md               # This tutorial
